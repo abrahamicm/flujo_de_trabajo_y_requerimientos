@@ -1,0 +1,2 @@
+- archivos donde se digan cuales son los requerimientos, si no ubiesen test
+- podria hacer una carpera ue se llame responses, o data
