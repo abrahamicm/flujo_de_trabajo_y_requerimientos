@@ -1,5 +1,6 @@
 # requerimiento
 - Descripcion
+- entradas y salidas deseadas
 - Desencadenantes
 - punto de insercion
 - pila de llamadas
@@ -11,6 +12,5 @@
 - efectos secundarios
 - Outro
 
-# entradas y salidas deseadas
 
 
